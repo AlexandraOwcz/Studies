@@ -1,0 +1,1 @@
+This is my program that I wrote for study course called SDIZO - "Struktury danych i z³o¿onoœæ obliczeniowa"
